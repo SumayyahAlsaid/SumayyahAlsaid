@@ -1,3 +1,10 @@
+### Hi there 👋
+
+<!--
+**SumayyahAlsaid/SumayyahAlsaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🔭 I’m currently working **on android apps, and UI/UX design.**
+
 - 🌱 I’m currently learning **kotlin language.**
 
 - 💬 Ask me about **android, UI/UX design and programming**
